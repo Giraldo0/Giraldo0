@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... BSQ project and DAO
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... BSQ project
-- 📫 How to reach me ... email: giraldomarino@mail.com
+- 📫 How to reach me ... at giraldomarino@mail.com
 
 <!---
 Giraldo0/Giraldo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
